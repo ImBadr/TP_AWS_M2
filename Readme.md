@@ -155,4 +155,3 @@ After customizing the test.html page, we can test the load balancer :
 
 ![AMI_Image_Creation](/assets/part_2/load_balancer_test_1.png)
 ![AMI_Image_Creation](/assets/part_2/load_balancer_test_2.png)
-
